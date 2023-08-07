@@ -16,6 +16,8 @@ Since then, after voraciously learning and exploring these tools, and reading an
 
 _For a lot of fields, including software engineering, AI will not replace jobs wholesale. But human workers who can learn to wield these powerful new tools **will** replace those who don't._
 
+{% image "./female_scientist_in_a_lab_coat_standing_in_front_of_an_enormous_powerful_mech_robot_style-Comic_Book.png", "SDXL prompt:female scientist in a lab coat standing in front of an enormous powerful mech robot" %}
+
 Here are a few supporting opinions:
 
 [AI Will Not Replace You, But You Will Have More Squeezed Out Of You](https://jjacky.substack.com/p/ai-will-not-replace-you-but-you-will)
