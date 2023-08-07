@@ -17,7 +17,7 @@ module.exports = eleventyConfig => {
 		let formats = ["avif", "webp", "auto"];
 		let file = relativeToInputPath(this.page.inputPath, src);
 		let metadata = await eleventyImage(file, {
-			widths: widths || ["auto"],
+			widths: widths || [640, 768],
 			formats,
 			outputDir: path.join(eleventyConfig.dir.output, "img"), // Advanced usage note: `eleventyConfig.dir` works here because we’re using addPlugin.
 		});
@@ -25,7 +25,7 @@ module.exports = eleventyConfig => {
 		// TODO loading=eager and fetchpriority=high
 		let imageAttributes = {
 			alt,
-			sizes,
+			sizes: sizes || "100vw",
 			loading: "lazy",
 			decoding: "async",
 		};
