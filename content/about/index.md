@@ -16,5 +16,3 @@ I am a
 * life-long learner
 
 Here's my resume: [pdf](/pdf/Ethan-Stark-Resume.pdf) [LinkedIn](https://www.linkedin.com/in/ethanjstark/)
-
-And here's my Mastadon: [@folktale@mastodon.social](https://mastodon.social/@folktale)
