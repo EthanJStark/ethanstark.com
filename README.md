@@ -121,3 +121,5 @@ and enable
 <link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
 ```
 or configure the server with the CSP directive `style-src: 'unsafe-inline'` (which is less secure).
+
+blah
