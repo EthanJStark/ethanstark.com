@@ -122,4 +122,4 @@ and enable
 ```
 or configure the server with the CSP directive `style-src: 'unsafe-inline'` (which is less secure).
 
-blah
+
