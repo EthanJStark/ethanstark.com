@@ -21,10 +21,10 @@ Enter: the Static Site Generator!
 Generally speaking, a static site generator takes raw data, in my case, Markdown files, and spits out static html files.
 
 ### Advantages:
-1.**Speed**: Since all pages are pre-built, they're blazingly fast to serve - it's like serving a pre-packaged sandwich, rather than cooking a full gourmet meal for every visitor! EthanStark.com is only 7.6KB and scores a 99/100 on Pingdom's [speed test](https://tools.pingdom.com/#62acc1645b800000). By comparison, my (admittedly not optimized) 2009 Wordpress [blog](https://sailingtrip2009.wordpress.com/) took 1.85 seconds to load its 1.3MB, scoring a [62/100](https://tools.pingdom.com/#62acc3ea0f000000).
-1.**Security**: Without a server dynamically processing information and user requests, there are fewer opportunities for malicious activity.
-1.**Version Control**: Everything lives in your codebase, making version control a breeze in comparison to the regular backups required by WordPress.
-1.**Cost-Effective**: Hosting static files is generally less expensive and more straightforward than maintaining dynamic server resources. [Netlify](https://www.netlify.com/pricing/) will host your site for free, and even provide a free SSL certificate! (No referral links, I'm just a fan.)
+1. **Speed**: Since all pages are pre-built, they're blazingly fast to serve - it's like serving a pre-packaged sandwich, rather than cooking a full gourmet meal for every visitor! EthanStark.com is only 7.6KB and scores a 99/100 on Pingdom's [speed test](https://tools.pingdom.com/#62acc1645b800000). By comparison, my (admittedly not optimized) 2009 Wordpress [blog](https://sailingtrip2009.wordpress.com/) took 1.85 seconds to load its 1.3MB, scoring a [62/100](https://tools.pingdom.com/#62acc3ea0f000000).
+1. **Security**: Without a server dynamically processing information and user requests, there are fewer opportunities for malicious activity.
+1. **Version Control**: Everything lives in your codebase, making version control a breeze in comparison to the regular backups required by WordPress.
+1. **Cost-Effective**: Hosting static files is generally less expensive and more straightforward than maintaining dynamic server resources. [Netlify](https://www.netlify.com/pricing/) will host your site for free, and even provide a free SSL certificate! (No referral links, I'm just a fan.)
 
 ### Cons of a Static Site Generator:
 1. **Ease of use**: Static site generators are generally geared towards developers, and require some technical know-how to set up and maintain.

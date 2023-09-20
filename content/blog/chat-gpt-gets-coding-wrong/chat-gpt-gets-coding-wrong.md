@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Bad At Coding? A Closer Look
 description: Thinking critically about breathless headlines
-date: 2023-08-06
+date: 2023-09-06
 tags:
   - ChatGPT
   - media literacy 
