@@ -6,8 +6,9 @@ tags:
   - AI
   - work
   - LLMs
-  - generative ai
+  - Generative AI
   - ChatGPT
+  - coding
 ---
 
 Around January 2023, as ChatGPT was blowing up, I was experiencing some existential dread: _At this rate, will software engineer roles even exist in a few years?_ 🤔😳
@@ -23,6 +24,8 @@ On the [Hard Fork podcast](https://www.nytimes.com/column/hard-fork), one of the
 {% image "./female_scientist_in_a_lab_coat_standing_in_front_of_an_enormous_powerful_mech_robot_style-Comic_Book.png", "SDXL prompt:female scientist in a lab coat standing in front of an enormous powerful mech robot" %}
 
 Here are a few concurring opinions that are worth a read:
+
+[Wired.com: ChatGPT Isn't Coming for Your Coding Job](https://www.wired.com/story/chatgpt-coding-software-crisis/)
 
 [AI Will Not Replace You, But You Will Have More Squeezed Out Of You](https://jjacky.substack.com/p/ai-will-not-replace-you-but-you-will)
 
