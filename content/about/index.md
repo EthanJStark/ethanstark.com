@@ -22,4 +22,6 @@ I once attempted to go on a sailing adventure. It did not go well. This is a [20
 
 Here's my resume: [pdf](/pdf/Ethan-Stark-Resume.pdf) [LinkedIn](https://www.linkedin.com/in/ethanjstark/)
 
+Drop me a line at Ethan [at] EthanStark [dot] com
+
 Thanks for stopping by!
