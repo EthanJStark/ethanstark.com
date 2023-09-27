@@ -2,6 +2,7 @@
 title: "✊📖 Book: The Internet Con: Seize the Means of Computation"
 description: Shovel-ready solutions to the problems of the modern internet
 date: 2023-09-27
+permalink: blog/seize-the-means-of-computation/
 tags:
   - web
   - activism
