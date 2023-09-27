@@ -1,5 +1,5 @@
 ---
-title: ✊📖 Book: The Internet Con: Seize the Means of Computation
+title: "✊📖 Book: The Internet Con: Seize the Means of Computation"
 description: Shovel-ready solutions to the problems of the modern internet
 date: 2023-09-27
 tags:
@@ -23,21 +23,21 @@ He posits, and I tend to agree, that certain tech giants, including Facebook, Go
 
 He's coined a term for this lifecycle: **enshittification**. 
 
+{% image "./the-internet-con.webp", "Book cover: The Internet Con: Seize the Means of Computation by Cory Doctorow" %}
+
 The Internet Con is a collection of essays that explore the problems of the modern internet and offer shovel-ready solutions.
 
 I appreciate that he offers concrete actionable steps that are accessible today. One core theme is **interoperability**.
 
-One of the core reasons users remain with, for example, Facebook, even as it becomes increasingly toxic, stuffed with ads and misinformation, is that their friends and family are there. So Facebook gets to benefit from network effects, a sort of momentum: it's hard to leave because everyone else is there.
+Many remain tethered to platforms like Facebook due to the presence of their social circles, despite the platform becoming increasingly saturated with ads and misinformation. This scenario epitomizes the concept of network effects, where platforms benefit simply because "everyone is on them."
 
-This is where interoperability comes in. If you could use a different social network, but still interact with your friends on Facebook, you'd be more likely to leave.
+Interoperability offers a a compelling solution to this bind. Imagine if you could seamlessly interact with your Facebook friends while using an entirely different social network. The choice to move becomes far more enticing.
 
-Interoperability is available today, in the form of services backed by the [ActivityPub](https://wikipedia.org/wiki/ActivityPub) protocol. There are a number of services that support it, including [Mastodon](https://joinmastodon.org/) and [Pixelfed](https://pixelfed.org/). I've spent a fair amount of time on Mastodon, and it's been just lovely. In my own personal experience, zero ads, zero hate speech, and zero Nazis. More than you can say about Twitter/X. Sure, that stuff is definitely out there, but by joining well-moderated instances with good block-lists, I've been able to avoid it.
+The [ActivityPub protocol](https://en.wikipedia.org/wiki/ActivityPub) is one of the most widely used interoperable-first standards. Platforms like [Mastodon](https://joinmastodon.org/) (Twitter clone) and [Pixelfed](https://pixelfed.org/) (Instagram clone) are built atop ActivityPub. I've spent a fair amount of time on Mastodon and can attest to its refreshing environment — free from ads, hate speech, and unwarranted negativity. By aligning with well-moderated instances, users can genuinely curate their online experience.
 
-To get a taste of the book, you can enjoy Cory reading the first chapter of the audiobook as a DRM-free mp3 [here](https://craphound.com/internetcon/2023/08/01/the-internet-con-how-to-seize-the-means-of-computation-audiobook-outtake/)
+For those keen to delve deeper, Cory Doctorow has shared the [first chapter](https://craphound.com/internetcon/2023/08/01/the-internet-con-how-to-seize-the-means-of-computation-audiobook-outtake/) of The Internet Con. Additionally, here's his [talk at Defcon 31](https://youtu.be/rimtaSgGz_4?si=t9zr5cJvIOG7sLIK) in which he shares the core of his thesis.
 
-He also gave a great talk at Defcon 31, where he spells out the core of his thesis [YouTube](https://youtu.be/rimtaSgGz_4?si=RUFSQBm_df34rnBy).
-
-No affiliation, just a big fan. Check out his:
+While I have no direct affiliation with Doctorow, I can't recommend his work enough. For those intrigued:
 * [blog](https://pluralistic.net/)
 * [books](https://craphound.com/)
 * [newsletter](https://pluralistic.net/plura-list/) 
