@@ -14,7 +14,7 @@ tags:
 **TL;DR**: 
 
 * The KOSA bill is not an effective way to combat online abuse.
-* It's a threat to the open web.
+* It's a direct threat to the open web.
 * It increases the surface area for our personal, sensitive data to be leaked.
 * It puts marginalized groups like LGBTQ+ folk at risk. 
 * [Write your representatives](https://act.eff.org/action/tell-congress-kosa-will-censor-the-internet-but-won-t-help-kids) to oppose the bill.
@@ -23,9 +23,24 @@ EFF says it better than I can. Here's their [excellent writeup](https://www.eff.
 
 {% image "./surveillance-state.jpeg", "Illustration of a futuristic surveillance state" %}
 
+Now, let's dig into a few of these points.
+
+## Power to Censor in the Hands of 50 State Attorneys General
+
+The KOSA bill would give state attorneys general the power to sue online platforms for content that is "harmful to minors". This is a vague and subjective term that could be interpreted in a myriad of ways. Since numerous states currently have laws on the books claiming that gender-affirming care for trans youth is child abuse, it would only be a matter of time before state attorneys general bring lawsuits against sites that contain content about trans healthcare.
+
+## Privacy Nightmare
+
+Hey, you know how every other week, we hear about another data breach? Per this list of data breaches between 2004 and 2023, the number of leaked records is over **17 BILLION**. By forcing sites to implement age verification systems, KOSA would create a massive database of personal information that would be a prime target for hackers. It would be a matter of not if, but when, this data is leaked.
+
+## This Is Not The Fix
+
+As EFF's article notes, "There is no question that some elements of social media today are toxic to users." But KOSA is not the fix.
+
+
 ## My Letter
 
-While the EFF form linked above includes a perfectly servicable letter that you could just send, I thought I'd share my own variation here, written with the help of GPT-4. Feel free to use it as a template for your own letter.
+While [EFF's form](https://act.eff.org/action/tell-congress-kosa-will-censor-the-internet-but-won-t-help-kids) includes a perfectly servicable letter that you could just send, I thought I'd share my own variation here, written with the help of GPT-4. Feel free to use it as a template for your own letter.
 
 ---
 
