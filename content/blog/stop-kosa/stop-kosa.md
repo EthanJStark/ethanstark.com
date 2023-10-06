@@ -31,7 +31,7 @@ The KOSA bill would give state attorneys general the power to sue online platfor
 
 ## Privacy Nightmare
 
-Hey, you know how every other week, we hear about another data breach? Per this list of data breaches between 2004 and 2023, the number of leaked records is over **17 BILLION**. By forcing sites to implement age verification systems, KOSA would create a massive database of personal information that would be a prime target for hackers. It would be a matter of not if, but when, this data is leaked.
+Hey, you know how every other week, we hear about another data breach? Per [this list](https://en.wikipedia.org/wiki/List_of_data_breaches) of data breaches between 2004 and 2023, the number of leaked records is over **17 BILLION**. By forcing sites to implement age verification systems, KOSA would create a massive database of personal information that would be a prime target for hackers. It would be a matter of not if, but when, this data is leaked.
 
 ## This Is Not The Fix
 
