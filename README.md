@@ -1,35 +1,33 @@
-# eleventy-base-blog v8
+# 🌐 My blog, live at [EthanStark.com](ethanstark.com/)
 
-A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) site generator (using the [v2.0 release](https://www.11ty.dev/blog/eleventy-v2/)).
+# 🛠️ Built with 11ty
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/802669dd-d5f8-4d49-963d-6d57b257c2a2/deploy-status)](https://app.netlify.com/sites/eleventy-base-blog/deploys)
+[Eleventy](https://www.11ty.dev/) is a JavaScript-based static site generator.
+This blog was started using the [11ty base blog repo v.8](https://github.com/11ty/eleventy-base-blog)
 
-## Getting Started
+[Want a more generic/detailed getting started guide?](https://www.11ty.dev/docs/getting-started/)
 
-* [Want a more generic/detailed getting started guide?](https://www.11ty.dev/docs/getting-started/)
+# 💠 Deployed with Netlify
 
-1. Make a directory and navigate to it:
+🚀 [Learn more](https://ethanstark.com/blog/hello-world-11ty/eleventy-netlify/) about this power-combo.
 
-```
-mkdir my-blog-name
-cd my-blog-name
-```
+# 🏃🏻‍♂️ How to Run This
 
-2. Clone this Repository
+1. Clone this Repository
 
 ```
-git clone https://github.com/11ty/eleventy-base-blog.git .
+git clone https://github.com/EthanJStark/ethanstark.com.git .
 ```
 
 _Optional:_ Review `eleventy.config.js` and `_data/metadata.js` to configure the site’s options and data.
 
-3. Install dependencies
+2. Install dependencies
 
 ```
 npm install
 ```
 
-4. Run Eleventy
+3. Run Eleventy
 
 Generate a production-ready build to the `_site` folder:
 
@@ -98,8 +96,6 @@ Deploy this Eleventy site in just a few clicks on these services:
 
 ### Implementation Notes
 
-- `content/about/index.md` is an example of a content page.
-- `content/blog/` has the blog posts but really they can live in any directory. They need only the `posts` tag to be included in the blog posts [collection](https://www.11ty.dev/docs/collections/).
 - Use the `eleventyNavigation` key (via the [Eleventy Navigation plugin](https://www.11ty.dev/docs/plugins/navigation/)) in your front matter to add a template to the top level site navigation. This is in use on `content/index.njk` and `content/about/index.md`.
 - Content can be in _any template format_ (blog posts needn’t exclusively be markdown, for example). Configure your project’s supported templates in `eleventy.config.js` -> `templateFormats`.
 - The `public` folder in your input directory will be copied to the output folder (via `addPassthroughCopy` in the `eleventy.config.js` file). This means `./public/css/*` will live at `./_site/css/*` after your build completes.
@@ -121,5 +117,3 @@ and enable
 <link rel="stylesheet" href="{% getBundleFileUrl "css" %}">
 ```
 or configure the server with the CSP directive `style-src: 'unsafe-inline'` (which is less secure).
-
-blah
