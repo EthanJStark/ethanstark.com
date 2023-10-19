@@ -34,6 +34,8 @@ In essence, an SSG transforms raw data (like my Markdown files) into static HTML
 ### Why Did I Choose Eleventy?
 Eleventy is an SSG built on JavaScript. It stands out due to its comprehensive documentation, supportive community, and an excellent [starter blog repo](https://github.com/11ty/eleventy-base-blog) that was the foundation for this site.
 
+The code for this site, which used that starter blog for its template, can be viewed [here](https://github.com/EthanJStark/ethanstark.com).
+
 ### Deploying to Netlify
 I make changes to my blog, and push it to GitHub. Netlify seamlessly detects these modifications, builds the site using 11ty, and deploys it. The entire process is remarkably smooth.
 
