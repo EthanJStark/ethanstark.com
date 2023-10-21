@@ -4,7 +4,7 @@ eleventyNavigation:
   key: Home
   order: 1
 numberOfLatestPostsToShow: 10
-getTagsFromRecentPosts: 3
+getTagsFromRecentPosts: 5
 ---
 
 {% set postsCount = collections.posts | length %}
@@ -13,7 +13,7 @@ getTagsFromRecentPosts: 3
 </h1>
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set recentPosts = collections.posts | head(-1 * getTagsFromRecentPosts) %}
-{% set recentTags = recentPosts | getAllTags | filterTagList %}
+{% set recentTags = recentPosts | getAllTags | filterTagList | alphabetize %}
 {% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
@@ -24,7 +24,7 @@ getTagsFromRecentPosts: 3
 {% endif %}
 {# List tags from getTagsFromRecentPosts #}
 <h1>Latest Tags</h1>
-<ul>
+<ul class="homepage-tags">
   {% for tag in recentTags %}
     {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
     <li>
