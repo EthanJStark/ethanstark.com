@@ -5,7 +5,7 @@ date: 2023-09-06
 tags:
   - ChatGPT
   - media literacy 
-  - LLM
+  - LLMs
   - coding
 ---
 
