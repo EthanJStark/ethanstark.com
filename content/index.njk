@@ -4,6 +4,7 @@ eleventyNavigation:
   key: Home
   order: 1
 numberOfLatestPostsToShow: 10
+getTagsFromRecentPosts: 3
 ---
 
 {% set postsCount = collections.posts | length %}
@@ -11,6 +12,8 @@ numberOfLatestPostsToShow: 10
 <h1>Latest Post{% if latestPostsCount != 1 %}s{% endif %}
 </h1>
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+{% set recentPosts = collections.posts | head(-1 * getTagsFromRecentPosts) %}
+{% set recentTags = recentPosts | getAllTags | filterTagList %}
 {% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
@@ -19,23 +22,17 @@ numberOfLatestPostsToShow: 10
     can be found in
     <a href="/blog/">the archive</a>.</p>
 {% endif %}
-{# List every tag in the project #}
-<h1>Tags</h1>
+{# List tags from getTagsFromRecentPosts #}
+<h1>Recent Tags</h1>
 <ul>
-  {% for tag in collections.all | getAllTags | filterTagList %}
+  {% for tag in recentTags %}
     {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
     <li>
       <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>
     </li>
   {% endfor %}
 </ul>
-{# List every content page in the project #}
-{# <ul>
-  {%- for entry in collections.all %}
-    <li>
-      <a href="{{ entry.url }}">
-        <code>{{ entry.url }}</code>
-      </a>
-    </li>
-  {%- endfor %}
-</ul> #}
+{# Link to more tags #}
+<p>
+  <a href="/tags/">See all tags</a>
+</p>
