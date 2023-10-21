@@ -78,6 +78,10 @@ module.exports = function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
+	eleventyConfig.addFilter("alphabetize", function alphabetize(list) {
+		return list.sort((a, b) => { return a.localeCompare(b, 'en', { sensitivity: 'base' }) });
+	});
+
 	eleventyConfig.addFilter("debugger", (...args) => {
     console.log(...args)
     debugger;

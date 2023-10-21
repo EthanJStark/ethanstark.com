@@ -23,7 +23,7 @@ getTagsFromRecentPosts: 3
     <a href="/blog/">the archive</a>.</p>
 {% endif %}
 {# List tags from getTagsFromRecentPosts #}
-<h1>Recent Tags</h1>
+<h1>Latest Tags</h1>
 <ul>
   {% for tag in recentTags %}
     {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
