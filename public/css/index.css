@@ -313,6 +313,10 @@ img[width][height] {
 	/* Preserve aspect ratio */
 }
 
+img.border {
+	border: 4px solid #aeaeae;
+}
+
 ul.tags-list,
 ul.homepage-tags {
 	-moz-column-count: 2;
