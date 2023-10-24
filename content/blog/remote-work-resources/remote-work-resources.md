@@ -10,7 +10,7 @@ tags:
 
 {% image "./WFH.jpeg", "Dall·E 3 Prompt: Stock photo of a man working on a laptop. He is laying in a hammock. There is a tropical drink on the table next to him." %}
 _Dall·E 3 Prompt: "Stock photo of a man working on a laptop. He is laying in a hammock. There is a tropical drink on the table next to him."_
-_Editor's note: he drinks to dull the pain of AI disfiguring his right pinkey._ 😉
+_Editor's note: he drinks to dull the pain of AI disfiguring his right pinky._ 😉
 
 ---
 
