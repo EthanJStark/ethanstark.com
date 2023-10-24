@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 # About Me
 
-👋 Hi, I'm Ethan! I learn cool stuff all the time, and post about it on this blog.
+👋 Hi, I'm Ethan! I learn cool stuff all the time, and write about it on this blog.
 
 I am a
 * 👨🏻‍💻 software engineer
