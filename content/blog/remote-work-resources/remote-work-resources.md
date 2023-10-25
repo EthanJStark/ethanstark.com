@@ -50,11 +50,9 @@ Formerly AngelList, it's a sizable, easily searchable collection of roles with s
 "Find engineering teams that share your values."
 This one is not a huge job board, but it does have some brilliant functionality.
 
-### [Homepage](https://www.keyvalues.com/)
-You'll start by selecting the values that are most important to you in a work environment. Then, scroll down to find comanies with open roles that share your values.
+From the [homepage](https://www.keyvalues.com/), you can the values that are most important to you in a work environment. Then, scroll down to find comanies with open roles that share your values.
 
-### Culture Queries:
-Start [here](https://www.keyvalues.com/culture-queries). Once you've selected your values, scroll down and click "See results" to find excellent questions for _you_, the candidate, to ask the folk you're interviewing with.
+[Culture Queries](https://www.keyvalues.com/culture-queries) offers really thoughtful questions for _you_, the candidate, to ask the folk you're interviewing with. Once you've selected your values, scroll down and click "See results".
 
 A favorite of mine:
 > Technical capabilities aside, what soft skills would make someone successful in this role?
