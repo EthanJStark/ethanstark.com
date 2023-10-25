@@ -41,15 +41,19 @@ If you're on LinkedIn, say hi! [Here's my profile](https://www.linkedin.com/in/e
 I attended their virtual job fair, which landed me two interviews.
 They have a ton of remote roles listed.
 
+# [Wellfound](https://wellfound.com/)
+
+Formerly AngelList, it's a sizable, easily searchable collection of roles with startups.
+
 # [Key Values](https://www.keyvalues.com/)
 
 "Find engineering teams that share your values."
 This one is not a huge job board, but it does have some brilliant functionality.
 
-## [Homepage](https://www.keyvalues.com/)
+### [Homepage](https://www.keyvalues.com/)
 You'll start by selecting the values that are most important to you in a work environment. Then, scroll down to find comanies with open roles that share your values.
 
-## Culture Queries:
+### Culture Queries:
 Start [here](https://www.keyvalues.com/culture-queries). Once you've selected your values, scroll down and click "See results" to find excellent questions for _you_, the candidate, to ask the folk you're interviewing with.
 
 A favorite of mine:
@@ -59,3 +63,6 @@ A favorite of mine:
 
 A weekly newsletter tracking companies that have recently raised heaps of 💸 money, and are now hiring.
 
+---
+
+Those are my favorites! Did I miss any that you like? Let me know on [Mastodon](https://hachyderm.io/@ethanjstark/111296253341149997), or Ethan [at] EthanStark [dot] com. Also, I'm still on the job hunt myself--holler if you know of an opening! 🙏
