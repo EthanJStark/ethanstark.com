@@ -17,7 +17,7 @@ I am a:
 
 🐘 Here's my Mastodon profile: [@ethanjstark@hachyderm.io](https://hachyderm.io/@ethanjstark)
 
-📄 Here's my resume: [pdf](/pdf/Ethan-Stark-Resume.pdf) [LinkedIn](https://www.linkedin.com/in/ethanjstark/)
+📄 Here's my [LinkedIn](https://www.linkedin.com/in/ethanjstark/).
 
 Drop me a line at Ethan [at] EthanStark [dot] com
 
