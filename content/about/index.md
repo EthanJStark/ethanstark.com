@@ -8,7 +8,7 @@ eleventyNavigation:
 
 👋 Hi, I'm Ethan! I learn cool stuff all the time, and write about it on this blog.
 
-I am a
+I am a:
 * 👨🏻‍💻 software engineer
 * husband
 * dad
