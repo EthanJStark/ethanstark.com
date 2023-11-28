@@ -1,6 +1,6 @@
 ---
 title: 🧑🏽‍💻🌅 Coding for a Cause
-description: Ways To Contribute to Open Source And Help Society
+description: Ways To Contribute to Open Source, for Social Good
 date: 2023-11-27
 tags:
   - GitHub
