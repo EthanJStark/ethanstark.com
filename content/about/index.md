@@ -15,8 +15,6 @@ I am a:
 * musician (synth, piano, guitar, uke)
 * life-long learner
 
-🐘 Here's my Mastodon profile: [@ethanjstark@hachyderm.io](https://hachyderm.io/@ethanjstark)
-
 📄 Here's my [LinkedIn](https://www.linkedin.com/in/ethanjstark/).
 
 Drop me a line at Ethan [at] EthanStark [dot] com
