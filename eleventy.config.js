@@ -109,6 +109,15 @@ module.exports = function(eleventyConfig) {
 
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 
+	eleventyConfig.addShortcode('video', function(videoSource) {
+  return `
+    <video controls>
+      <source src="${videoSource}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  `;
+});
+
 	return {
 		// Control which files Eleventy will process
 		// e.g.: *.md, *.njk, *.html, *.liquid
